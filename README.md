@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Java,Data Structures and Algorithms,javaScript,HTML,CSS**
 
-- 📫 How to reach me **nsnaveensharma1998@gmail.com**
+<!-- - 📫 How to reach me **nsnaveensharma1998@gmail.com** -->
 
 - 📄 Resume [Naveen Sharma](https://drive.google.com/file/d/1ErcJxHhNboejIx2ukDxxLueWSRom-qOD/view?usp=sharing)
 - - 👨‍💻 All of my projects are available at [https://naveensharma8527.github.io/](https://naveensharma8527.github.io/)
